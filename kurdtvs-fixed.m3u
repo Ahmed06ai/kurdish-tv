@@ -183,3 +183,7 @@ https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w21008868
 https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
 #EXTINF:-1 group-title="Kurdish Entertainment",BNAR Movies HD - Alternate
 https://cdn.karwan.tv/bnar-movies/index.m3u8
+#EXTINF:-1 group-title="Bahdini / Badinan",Welat TV
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 group-title="Bahdini / Badinan",Ishtar TV Badinan
+http://ishtartv.badinan.xyz:1935/live/iShtarHD/playlist.m3u8
