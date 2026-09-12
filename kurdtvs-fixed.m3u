@@ -11,62 +11,26 @@ https://stream.kurdmax.tv/app/kurdmax-sorani1/ts:playlist.m3u8
 https://stream.kurdmax.tv/app/kurdmax-kurmanji2/ts:playlist.m3u8
 #EXTINF:-1 group-title="Kurdish News",Kurdsat TV
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 group-title="Backups",Kurdsat TV Backup
-https://kurdsat.akamaized.net/hls/kurdsat.m3u8
 #EXTINF:-1 group-title="Kurdish News",NRT TV HD
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:-1 group-title="Kurdish News",Rudaw TV
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 group-title="Kurdish Entertainment",Kurdmax Show
-https://stream.kurdmaxshow.tv/app/kurdmaxshow-sorani/llhls.m3u8
-#EXTINF:-1 group-title="Kurdish Entertainment",NRT2 HD
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish News",AVA TV
 https://ava2.store/upload/ava.m3u8
 #EXTINF:-1 group-title="Kurdish General",Amozhgary TV
 https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1 group-title="Kurdish Entertainment",Kurdmax Show Kurmanci
-http://31.14.40.139:1935/liveTrans/SHOW2/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish News",Speda TV
-https://spedanet.store/upload/images/spedahd.m3u8
 #EXTINF:-1 group-title="Kurdish News",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish General",Waar TV
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish News",Kurdsat News
-https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
-#EXTINF:-1 group-title="Kurdish News",Gali Kurdistan TV
-https://live.host247.net/gk/gksat/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish General",Khak TV
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish Kids",Afarin HD TV
-https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Backups",Afarin HD TV Backup
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish General",Payam TV
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish News",Ronahi TV
-https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
-#EXTINF:-1 group-title="Kurdish Music",Sterk TV
-https://muzkurd.com/sterktv/sterk/playlist.m3u8
-#EXTINF:-1 group-title="Backups",Sterk TV Backup
-https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish News",Kirkuk Satellite TV
-https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1 group-title="International",Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 #EXTINF:-1 group-title="Kurdish General",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Kurdish Music",Kurdmax Music HD
-http://31.14.40.139:1935/music/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish Kids",Zarok TV Kurmanci
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 group-title="Regional",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 group-title="Kurdish News",Zagros TV HD
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regional",MBC 3
-https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 group-title="International",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="Regional",Star TV
@@ -77,72 +41,30 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1 group-title="International",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="International",Islam Channel
-https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 #EXTINF:-1 group-title="International",France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="International",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Religious",Makkah Live
 http://m.live.net.sa:1935/live/quran/chunklist_w739544379.m3u8
-#EXTINF:-1 group-title="International",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="Regional Kids",Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regional",MBC 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 group-title="Regional",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="Kurdish General",Cira TV HD
-https://cira-tv.akamaized.net/hls/stream_0.m3u8
 #EXTINF:-1 group-title="Regional",Teve2 HD
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish Music",Med Muzik TV
 http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 group-title="Regional",Dubai One
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="Kurdish General",Nubar TV
-http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
-#EXTINF:-1 group-title="Regional",Turkmeneli TV
-http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 group-title="Regional",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="Regional",DMAX HD
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="Regional",Haber 61 HD
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="International",Discovery Channel
-http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
-#EXTINF:-1 group-title="Kurdish General",Sada TV
-https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish General",Bangxwazen Badinan
-http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish Religious",Mihrab TV
-http://baskhd.ddns.net:40/live/MihrabTV/chunklist_w1291413404.m3u8
-#EXTINF:-1 group-title="Regional",Gem TV
-https://cdn-live.gemgroup.tv/live/gemtv.m3u8
-#EXTINF:-1 group-title="Regional",TRT Documentary
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Kurdish News",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1 group-title="Backups",Channel 8 fMP4 Backup
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 group-title="Kurdish News",Kurdistan 24 FHD
-https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="Backups",Kurdistan 24 720p Backup
-https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
-#EXTINF:-1 group-title="Kurdish News",NRT HD Akamai
-https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 group-title="Backups",Kurdsat News Akamai
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 group-title="Backups",Gali Kurdistan Backup
-https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
 #EXTINF:-1 group-title="Backups",Kurdistan TV Backup
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1791118443_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Kurdish News",MMN News
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish General",Naqshi Media
-http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish Religious",SPI Quran HD
 https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
 #EXTINF:-1 group-title="Kurdish Religious",MMN Quran
@@ -151,24 +73,16 @@ http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 group-title="Kurdish General",Avar TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish General",Amozhgary HD
-https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:-1 group-title="Kurdish General",ALA HD
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish General",Baba Gur Gur TV
-https://barham.short.gy/BabaGuGurTV.m3u8
 #EXTINF:-1 group-title="Kurdish General",BASK HD
 http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish General",BASK Plus HD
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish Kids",Afarin Baxcha TV
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Backups",Afarin FHD Backup
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish Kids",Afarin Kids
 http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
-#EXTINF:-1 group-title="Kurdish Kids",BASK Kids HD
-http://217.76.62.187/hls/kids.m3u8
 #EXTINF:-1 group-title="Kurdish General",Bangawaz TV
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish General",Denge Zelal TV
@@ -179,24 +93,14 @@ https://avr.host247.net/live/emantv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:-1 group-title="Kurdish General",ESRA TV 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
-#EXTINF:-1 group-title="Kurdish Religious",ESRA Quran HD
-https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
 #EXTINF:-1 group-title="Kurdish General",Euro Kurd
 http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
 #EXTINF:-1 group-title="Kurdish General",Farmoda TV
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish General",Halabja TV
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish General",IMK HD
-http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
-#EXTINF:-1 group-title="Kurdish Religious",IMK Quran HD
-http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 #EXTINF:-1 group-title="Kurdish General",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Backups",Komala TV Backup
-https://live.tvkomala.com/live/komala/chunks.m3u8
-#EXTINF:-1 group-title="Kurdish General",Kurd Channel
-https://northtelecom.live/KURD.m3u8
 #EXTINF:-1 group-title="Kurdish General",Kurd 7
 http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish Entertainment",MMN Show
@@ -221,65 +125,61 @@ http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish Religious",SOZ Quran 1
 http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
-#EXTINF:-1 group-title="Backups",Sada HD Backup
-http://sada-hd.ddns.net:40/live/sadatv/HawezHD.m3u8
 #EXTINF:-1 group-title="Kurdish General",Derin
 http://baskhd.ddns.net:40/live/Derin/index.m3u8
 #EXTINF:-1 group-title="Kurdish Entertainment",MMN Drama
 http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish News",Iraqia Kurdish TV
-https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 #EXTINF:-1 group-title="Kurdish Sports",Gewher Sports
 https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Regional Sports",Iraqia Sports
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 group-title="Kurdish General",ZNAR HD
 https://183.bozztv.com/giatv/giatv-znar/znar/chunks.m3u8
 #EXTINF:-1 group-title="Kurdish General",GK Plus
 https://live.host247.net/gk/gkplus/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish Sports",AVA Sport HD
-https://183.bozztv.com/giatv/giatv-avasoport/avasoport/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish General",Infinity TV
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kurdish General",Garyan TV
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
 #EXTINF:-1 group-title="Kurdish Entertainment",Soz Movie
 http://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
-#EXTINF:-1 group-title="Kurdish News",Rojava TV
-https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
-#EXTINF:-1 group-title="Kurdish Music",Med Music
-https://iko-live.akamaized.net/MedMusicTV/master.m3u8
-#EXTINF:-1 group-title="Kurdish News",Medya Haber
-https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
 #EXTINF:-1 group-title="Backups",Ronahi TV Backup 2
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 group-title="Backups",Kurdsat IKO
-https://iko-live.akamaized.net/KurdsatTV/master.m3u8
-#EXTINF:-1 group-title="Backups",Kurdsat Kurd HD
-https://iko-live.akamaized.net/kurdhd/master.m3u8
-#EXTINF:-1 group-title="Backups",Kurdsat News IKO
-https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 group-title="Kurdish News",JIN TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 group-title="Kurdish Kids",Zarok Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 group-title="Backups",Zarok TV IKO
-https://iko-live.akamaized.net/ZarokTV/master.m3u8
 #EXTINF:-1 group-title="Kurdish General",Welat TV
 https://stream.badinan.xyz/welat/tv/chunklist_w676236754.m3u8
-#EXTINF:-1 group-title="Backups",Rudaw Backup
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
-#EXTINF:-1 group-title="Backups",Sterk TV Backup 2
-https://5dab1db4b25fe.streamlock.net/sterk/sterktv/chunklist_w558585070.m3u8
 #EXTINF:-1 group-title="Kurdish Entertainment",BARIN Movies TV
 https://cdn.karwan.tv/barin-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kurdish General",BNAR TV
 https://cdn.karwan.tv/bnar-family/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kurdish Entertainment",BNAR Movies TV
 https://cdn.karwan.tv/bnar-movies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kurdish Sports",Shna Sport
-https://cdn.karwan.tv/shna-tv-3/index.m3u8
-#EXTINF:-1 group-title="Kurdish Sports",Spi Sports
-https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
-#EXTINF:-1 group-title="Kurdish Entertainment",Zhin Filme
-https://183.bozztv.com/giatv/giatv-zhintv/zhintv/chunks.m3u8
+#EXTINF:-1 group-title="Kurdish Entertainment",Kurdmax Show - Replacement Test
+https://kurdmaxshow1.worldtvplus.workers.dev/
+#EXTINF:-1 group-title="Kurdish General",I Kurd TV
+https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish Entertainment",BNAR Action HD
+https://cdn.karwan.tv/bnar-action/index.m3u8
+#EXTINF:-1 group-title="Kurdish General",Jamawar
+https://avr.host247.net/JamawarTv/JamawarTv/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish General",Gawher TV
+https://cdn.karwan.tv/gewher-tv/index.m3u8
+#EXTINF:-1 group-title="Kurdish News",Kurdsat News - Replacement Test
+https://kurdsat-news.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 group-title="Kurdish General",Kurdistan TV - Alternate
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kurdish News",NRT News - Alternate
+https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
+#EXTINF:-1 group-title="Kurdish News",Zagros TV - Alternate
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kurdish News",JIN TV - Alternate
+https://live.jintv.org:12443/medialive/jintv.m3u8
+#EXTINF:-1 group-title="Kurdish News",Medya Haber - Alternate
+https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/chunklist_w130320619_b2660000_sleng.m3u8
+#EXTINF:-1 group-title="Kurdish General",Sterk TV - Alternate
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w2100886807_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Kurdish General",Welat TV - Alternate
+https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
+#EXTINF:-1 group-title="Kurdish Entertainment",BNAR Movies HD - Alternate
+https://cdn.karwan.tv/bnar-movies/index.m3u8
